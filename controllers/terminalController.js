@@ -1,4 +1,3 @@
-// controllers/terminalController.js
 exports.createTerminal = (req, res) => {
   res.json({ message: 'Terminal created successfully' });
 };
